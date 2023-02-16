@@ -1,0 +1,11 @@
+.git
+.eslintrc
+.mocharc.json
+.gitignore
+/test
+/node_modules
+package-lock.json
+tsconfig.base.json
+tsconfig-cjs.json
+tsconfig.json
+afterbuild.sh
