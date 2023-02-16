@@ -1,5 +1,5 @@
 
-# node-encrypteded
+# node-encrypted
 Simple & easy way to encrypt (and decrypt) string on node.js.
 
 We build this library to provide an easiest way as possible to encrypt and decrypt string, while also being incredibly secure.
