@@ -1,5 +1,5 @@
 {
-  "name": "node-encrypt",
+  "name": "node-encrypted",
   "version": "1.0.0",
   "description": "a simple & easy way to encrypt (and decrypt) string on node.js",
   "type": "module",
@@ -23,7 +23,7 @@
   "author": "Achmad Fauzi Harismawan <mail@harismawan.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/harismawan/node-encrypt.git"
+    "url": "git://github.com/harismawan/node-encrypted.git"
   },
   "keywords": [
     "encrypt",
@@ -44,9 +44,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/harismawan/node-encrypt/issues"
+    "url": "https://github.com/harismawan/node-encrypted/issues"
   },
-  "homepage": "https://github.com/harismawan/node-encrypt",
+  "homepage": "https://github.com/harismawan/node-encrypted",
   "devDependencies": {
     "eslint": "^8.34.0",
     "mocha": "^10.2.0",

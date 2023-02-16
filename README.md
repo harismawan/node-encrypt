@@ -1,5 +1,5 @@
 
-# node-encrypt
+# node-encrypteded
 Simple & easy way to encrypt (and decrypt) string on node.js.
 
 We build this library to provide an easiest way as possible to encrypt and decrypt string, while also being incredibly secure.
@@ -13,13 +13,13 @@ We build this library to provide an easiest way as possible to encrypt and decry
   
 ## Installation
 ```
-npm install --save node-encrypt
+npm install --save node-encrypted
 ```
 
 ## Usage
 ```javascript
-import { encrypt, decrypt } from  'node-encrypt';
-// const { encrypt, decrypt } = require('node-encrypt'); // legacy way
+import { encrypt, decrypt } from  'node-encrypted';
+// const { encrypt, decrypt } = require('node-encrypted'); // legacy way
 
 const encryptedString = encrypt('aes-256-gcm', 'very secret text', 'secret');
 // W9RFn97WvNuMbQw=*8r053fqPKXMHPx2O34UnyQ==*zJ7S1U95GRvRhTfo/CfhFA==*vQOEQZKf9mWEhdoyUnfWiA==
